@@ -26,6 +26,20 @@
    - [Section 4.8 Voluntary Withdrawal from Membership](#section-48-voluntary-withdrawal-from-membership)
    - [Section 4.9 Termination from Membership](#section-49-termination-from-membership)
    - [Section 4.10 Effect of Withdrawal or Termination of Membership](#section-410-effect-of-withdrawal-or-termination-of-membership)
+5. [Article V Trustees](#article-v-trustees)
+   - [Section 5.1 Powers](#section-51-powers)
+   - [Section 5.2 Qualification](#section-52-qualification)
+   - [Section 5.3 Compensation](#section-53-compensation)
+   - [Section 5.4 Chairman of the Board of Trustees](#section-54-chairman-of-the-board-of-trustees)
+   - [Section 5.6 Election and Term](#section-56-election-and-term)
+   - [Section 5.7 Resignation and Removal of Trustees](#section-57-resignation-and-removal-of-trustees)
+   - [Section 5.8 Vacancies](#section-58-vacancies)
+   - [Section 5.9 Quorum and Voting](#section-59-quorum-and-voting)
+   - [Section 5.10 Executive and Other Committees](#section-510-executive-and-other-committees)
+   - [Section 5.11 Place of Meetings](#section-511-place-of-meetings)
+   - [Section 5.12 Time, Notice and Call of Meetings](#section-512-time-notice-and-call-of-meetings)
+   - [Section 5.13 Action Without a Meeting](#section-513-action-without-a-meeting)
+   - [Section 5.14 Director Conflicts of Interest](#section-514-director-conflicts-of-interest)
 
 ## Article I Business Offices
 
@@ -177,3 +191,125 @@ the Board.
 Upon any withdrawal or termination of the membership of any member, the
 membership, including all related voting rights, of such member shall be
 terminated.
+
+## Article V Trustees
+
+### Section 5.1 Powers
+
+The business and affairs of the foundation shall be managed by or under the
+direction of the Chairman of the Board and the Board of Trustees, the "Trustees",
+which may exercise all such powers of the foundation and do all such lawful acts
+and things as are not by statute or by the Articles of Incorporation or by these
+Bylaws specifically reserved to the members.
+
+Chairman of the Board of Trustees exercises the right to total power over all
+matters, this cannot be amend until a successor to the initial chairman.
+
+### Section 5.2 Qualification
+
+Trustees must be residents of the State of Florida and of the United States,
+they must be members of the group, and have previously served as an officer in
+any role, unless otherwise determined by the Chairman of the Board.
+
+Candidates standing for election must be active member as of the record date.
+
+The Chairman of the Board reserves the right to appoint board members as they
+see fit, at any time, regardless of qualifications.
+
+### Section 5.3 Compensation
+
+The positions of all Trustees are Honorary - No compensation, monetary or in
+kind shall be paid, now or ever, this shall not be amended.
+
+### Section 5.4 Chairman of the Board of Trustees
+
+The initial Benevolent Chairman of the Board of Trustees for Life of the
+Jacksonville Linux Users Group is William L. Thomson Jr. who will remain such
+until death, or appointment of a successor at their discretion.
+
+Upon death, the current Board of Trustees shall appoint a successor Chairman.
+
+This section can only be amended or revised by a unanimous vote of the Board of
+Trustees and the approval of the Chairman of the Board of Trustees.
+
+### Section 5.5 Number
+
+The initial number of Trustees will be determined by the Chairman of the Board Trustees. Thereafter, the group shall maintain a minimum of five (5) Trustees,
+and the number shall be fixed by the members at each annual meeting of members.
+
+The Chairman of the Board of Trustees reserves the right to appoint additional
+Trustees, not to exceed two (2) in a single year.
+
+### Section 5.6 Election and Term
+
+Trustees shall be elected by secret ballot of the members using the condorcet
+voting system or other such suitable system. Elections shall be held nominally
+annual in person.
+
+Trustees shall normally hold office for a period not exceeding two electoral
+periods. Trustees shall retire annually by rotation (and may be re-elected). The
+first rotation shall be determined by the meeting of the Trustees held to adopt
+these Bylaws.
+
+Each Trustee shall hold office for the term for which he or she is elected and
+until his or her successor shall have been elected and qualified or until his or
+her earlier resignation, removal or death.
+
+### Section 5.7 Resignation and Removal of Trustees
+
+A director may resign at any time upon written request to the board or group.
+Furthermore, any director or the entire Board of Trustees may be removed, with
+or without cause, by a vote of the majority of the members entitled to vote for
+the election of Trustees or as otherwise provided in the General Foundation Law
+of the State of Florida.
+
+### Section 5.8 Vacancies
+
+Any vacancy occurring in the Board of Trustees, including any vacancy created
+by reason of an increase in the authorized number of Trustees, may be filled by
+the affirmative vote of a majority of the remaining Trustees though less than a
+quorum of the Board of Trustees or by a sole remaining director. A director
+elected to fill a vacancy shall hold office only until the next election of
+Trustees by the members.
+
+### Section 5.9 Quorum and Voting
+
+A majority of the number of Trustees fixed in accordance with these Bylaws shall
+constitute a quorum for the transaction of business. The vote of a majority of
+the Trustees present at a meeting at which a quorum is present shall be the act
+of the Board of Trustees.
+
+### Section 5.10 Executive and Other Committees
+
+Reserved.
+
+### Section 5.11 Place of Meetings
+
+All meetings of the Board of Trustees may be held in person or electronically,
+within or outside the State of Florida and within or outside the United States.
+
+All meetings of the Board of Trustees must be open to the public for observation
+only. There shall be no private meetings of the Board of Trustees. This
+provision cannot be amended ever.
+
+### Section 5.12 Time, Notice and Call of Meetings
+
+Regular meetings of the Board of Trustees shall be held immediately following the annual meeting of members each year and at such times thereafter as the Board of Trustees may fix. No notice of regular Trustees' meetings shall be required.
+
+Special meetings of the Board of Trustees shall be held at such times as called by the Chairman of the Board, the President of the foundation, or any two (2) Trustees. Written notice of the time and place of special meetings of the Board of Trustees shall be given to each director by electronic mail at least two (2) days before the meeting.
+
+Notice of a meeting of the Board of Trustees need not be given to any director who signs a waiver of notice, either before or after the meeting. Attendance of a director at a meeting shall constitute a waiver of notice of such meeting and waiver of any and all objections to the place of the meeting, the time of the meeting, or the manner in which it has been called or conveyed, except when a director states, at the beginning of the meeting, any objection to the transaction of business because the meeting is not lawfully called or convened.
+
+Members of the Board of Trustees may participate in a meeting of such Board or of any committee designated by such Board by conference telephone or similar communications equipment by means of which all persons participating in the meeting can hear each other at the same time. Participating by such means shall constitute presence in person at a meeting.
+
+### Section 5.13 Action Without a Meeting
+
+Any action required or permitted to be taken at a meeting of the Board of
+Trustees or of any committee thereof may be taken without a meeting if all the
+members of the board or committee, as the case may be, consent thereto in
+writing, and such writing is filed with the minutes of the proceedings of the
+board or committee. Such consent shall have the same effect as a unanimous vote.
+
+### Section 5.14 Director Conflicts of Interest
+
+Reserved.
