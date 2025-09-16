@@ -50,6 +50,8 @@
 7. [Article VII Books and Records](#article-vii-books-and-records)
    - [Section 7.1 Books and Records](#section-71-books-and-records)
    - [Section 7.2 Members' Inspection Rights](#section-72-members-inspection-rights)
+8. [Article VIII Nonprofit Status](#article-viii-nonprofit-status)
+   - [Section 8.1 Nonprofit Status](#section-81-nonprofit-status)
 
 ## Article I Business Offices
 
@@ -438,3 +440,19 @@ Florida, the group's membership records and its other books and records and to
 make copies or extracts therefrom.
 
 There shall be no private records, this cannot be amended or changed.
+
+## Article VIII Nonprofit Status
+
+### Section 8.1 Nonprofit Status
+
+The group is organized and shall be operated as a not-for-profit membership
+foundation organized under Florida law. The Chairman of the Board will be
+pursuing a 501(c)(3) status of the Internal Revenue Code, as amended (the "IRC"),
+given the educational nature and purpose of the group. In lieu of such, the
+Chairman will seek and obtain an exemption for the group from
+federal taxation pursuant to Section 501(a) of the IRC, and until such time, if
+ever, that such exemption is denied or lost, the foundation shall not be
+empowered to engage directly or indirectly in any activity which the foundation
+believes would be likely to invalidate its status as an organization exempt from
+federal taxation under Section 501(a) of the IRC as an organization described in
+Section 501(c) of the IRC.
