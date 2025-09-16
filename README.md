@@ -31,6 +31,7 @@
    - [Section 5.2 Qualification](#section-52-qualification)
    - [Section 5.3 Compensation](#section-53-compensation)
    - [Section 5.4 Chairman of the Board of Trustees](#section-54-chairman-of-the-board-of-trustees)
+   - [Section 5.5 Number](#section-55-number)
    - [Section 5.6 Election and Term](#section-56-election-and-term)
    - [Section 5.7 Resignation and Removal of Trustees](#section-57-resignation-and-removal-of-trustees)
    - [Section 5.8 Vacancies](#section-58-vacancies)
