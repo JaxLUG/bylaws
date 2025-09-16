@@ -40,6 +40,13 @@
    - [Section 5.12 Time, Notice and Call of Meetings](#section-512-time-notice-and-call-of-meetings)
    - [Section 5.13 Action Without a Meeting](#section-513-action-without-a-meeting)
    - [Section 5.14 Director Conflicts of Interest](#section-514-director-conflicts-of-interest)
+6. [Article VI Officers](#article-vi-officers)
+   - [Section 6.1 Officers](#section-61-officers)
+   - [Section 6.2 Duties](#section-62-duties)
+   - [Section 6.3 Election and Term](#section-63-election-and-term)
+   - [Section 6.4 Removal of Officers](#section-64-removal-of-officers)
+   - [Section 6.5 Vacancies](#section-65-vacancies)
+   - [Section 6.6 Compensation](#section-66-compensation)
 
 ## Article I Business Offices
 
@@ -196,9 +203,9 @@ terminated.
 
 ### Section 5.1 Powers
 
-The business and affairs of the foundation shall be managed by or under the
+The business and affairs of the group shall be managed by or under the
 direction of the Chairman of the Board and the Board of Trustees, the "Trustees",
-which may exercise all such powers of the foundation and do all such lawful acts
+which may exercise all such powers of the group and do all such lawful acts
 and things as are not by statute or by the Articles of Incorporation or by these
 Bylaws specifically reserved to the members.
 
@@ -296,7 +303,7 @@ provision cannot be amended ever.
 
 Regular meetings of the Board of Trustees shall be held immediately following the annual meeting of members each year and at such times thereafter as the Board of Trustees may fix. No notice of regular Trustees' meetings shall be required.
 
-Special meetings of the Board of Trustees shall be held at such times as called by the Chairman of the Board, the President of the foundation, or any two (2) Trustees. Written notice of the time and place of special meetings of the Board of Trustees shall be given to each director by electronic mail at least two (2) days before the meeting.
+Special meetings of the Board of Trustees shall be held at such times as called by the Chairman of the Board, the President of the group, or any two (2) Trustees. Written notice of the time and place of special meetings of the Board of Trustees shall be given to each director by electronic mail at least two (2) days before the meeting.
 
 Notice of a meeting of the Board of Trustees need not be given to any director who signs a waiver of notice, either before or after the meeting. Attendance of a director at a meeting shall constitute a waiver of notice of such meeting and waiver of any and all objections to the place of the meeting, the time of the meeting, or the manner in which it has been called or conveyed, except when a director states, at the beginning of the meeting, any objection to the transaction of business because the meeting is not lawfully called or convened.
 
@@ -313,3 +320,86 @@ board or committee. Such consent shall have the same effect as a unanimous vote.
 ### Section 5.14 Director Conflicts of Interest
 
 Reserved.
+
+## Article VI Officers
+
+### Section 6.1 Officers
+
+The officers of the group shall consist of a President, a Secretary and a
+Treasurer, each of whom shall be elected by the Board of Trustees. Other
+officers and assistant officers and agents as may be deemed necessary may be
+elected or appointed by the Board of Trustees from time to time. Any two (2) or
+more offices may be held by the same person, except the offices of President
+and Secretary.
+
+### Section 6.2 Duties
+
+The officers of the group shall have the following duties:
+
+1. President. The President shall be the chief executive officer of the
+group and shall have general and active management of the business and affairs
+of the group, subject to the direction of the Board of Trustees. The primary
+duty of the president is to add value to members by attracting leading
+technology professionals to present on innovative development methodologies and
+technologies relating to Linux, catering to people of all skill sets, without
+discrimination of any kind. The president is to ensure the community remains
+open to all for the exchange knowledge and pursue the intentions of the group.
+
+2. Vice President. The Vice President, if one is elected, shall, in the absence
+or disability of the President, perform the duties and exercise the powers of
+the President. He or she also shall perform whatever duties and have whatever
+powers the Board of Trustees may from time to time assign them. If more
+than one Vice President is elected, one thereof shall be designated as
+Executive Vice President and shall, in the absence or disability of the
+President, perform the duties and exercise the powers of the President and each
+other Vice President shall only perform whatever duties and have whatever powers
+the Board of Trustees may from time to time assign them.
+
+3. Secretary and Assistant Secretary. The Secretary shall keep accurate records
+of the acts and proceedings of all meetings of the members and Trustees. The
+Secretary shall give all notices required by law and by these Bylaws. In
+addition, the Secretary shall have general charge of the corporate books and
+records and of the corporate seal, and he or she shall affix, or attest the
+affixing of, the corporate seal to any lawfully executed instrument requiring
+it. The Secretary shall have general charge of the membership records of the
+group and shall keep, at the registered or principal office of the group, a
+record of the members showing the name and electronic mail address of each
+member. The Secretary shall sign such instruments as may require their
+signature and, in general, shall perform all duties as may be assigned to them
+from time to time by the Chairman, the President or the Board of Trustees. The
+Assistant Secretary, if one is appointed, shall render assistance to the
+Secretary in all the responsibilities described above.
+
+4. Treasurer and Assistant Treasurer. The Treasurer shall have custody of all
+corporate funds and financial records, shall keep full and accurate accounts of
+receipts and disbursements and render accounts thereof at the annual meetings
+of members, and shall perform such other duties as may be prescribed by the
+Chairman, the President or the Board of Trustees. The Assistant Treasurer, if
+one is appointed, shall render assistance to the Treasurer in all of the
+responsibilities described above.
+
+### Section 6.3 Election and Term
+
+Each officer shall be appointed by the Board of Trustees and shall hold office
+until such time as the officer resigns or is removed by the Board of Trustees.
+
+### Section 6.4 Removal of Officers
+
+Officers maybe removed by the Chairman or the Trustees at any time for any
+reason, removal by the Board of Trustees requires unanimous vote and Chairman
+of the Board approval.
+
+### Section 6.5 Vacancies
+
+Any vacancy, however occurring, in any office may be filled by the Board of
+Trustees.
+
+### Section 6.6 Compensation
+
+The positions of all officers are Honorary - No compensation, monetary or in
+kind shall be paid.
+
+This may be amended as necessary to ensure legal filings and other necessary
+actions are done, and for grant, internship, and other purposes as deemed
+necessary by the Chairman of the Board or Board of Trustees with Chairman
+approval.
