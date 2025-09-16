@@ -54,6 +54,8 @@
    - [Section 8.1 Nonprofit Status](#section-81-nonprofit-status)
 9. [Article IX Corporate Seal](#article-ix-corporate-seal)
    - [Section 9.1 Corporate Seal](#section-91-corporate-seal)
+10. [Article X Amendment](#article-x-amendment)
+    - [Section 10.1 Amendment](#section-101-amendment)
 
 ## Article I Business Offices
 
@@ -464,3 +466,19 @@ Section 501(c) of the IRC.
 ### Section 9.1 Corporate Seal
 
 The group shall not have a corporate seal.
+
+## Article X Amendment
+
+### Section 10.1 Amendment
+
+These Bylaws may be altered, amended or repealed, unless otherwise stated in
+section, by the Chairman of the Board, the Board of Trustees or by the members,
+and new Bylaws may be adopted by the Chairman of the Board, Board of Trustees,
+or by the members. No alteration, amendment or repeal of these Bylaws shall be
+effective unless and until the group attempts, in good faith, to give notice to
+the members of the group of such alteration, amendment or repeal at least
+fifteen (15) days prior to the effective date of such alteration, amendment or
+repeal, which notice shall be to each members electronic mail address.
+
+The Chairman of the Board reserves all rights to reject any alterations,
+amendments, or repeals at their discretion.
