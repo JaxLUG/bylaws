@@ -17,6 +17,15 @@
    - [Section 3.8 Record of Members Having Voting Rights](#section-38-record-of-members-having-voting-rights)
    - [Section 3.9 Member Quorum](#section-39-member-quorum)
    - [Section 3.10 Voting](#section-310-voting)
+4. [Article IV Members](#article-iv-members)
+   - [Section 4.1 Member Classes](#section-41-member-classes)
+   - [Section 4.2 Full Members](#section-42-full-members)
+   - [Section 4.3 Admission of Members](#section-43-admission-of-members)
+   - [Section 4.4 Continuation of Membership](#section-44-continuation-of-membership)
+   - [Section 4.5 to 4.7 Inclusive](#section-45-to-47-inclusive)
+   - [Section 4.8 Voluntary Withdrawal from Membership](#section-48-voluntary-withdrawal-from-membership)
+   - [Section 4.9 Termination from Membership](#section-49-termination-from-membership)
+   - [Section 4.10 Effect of Withdrawal or Termination of Membership](#section-410-effect-of-withdrawal-or-termination-of-membership)
 
 ## Article I Business Offices
 
@@ -109,3 +118,62 @@ Members shall vote in person.
 At any regular or special meeting as provided in Section 3.3, any question may
 be voted upon in the manner and style deemed appropriate by the Secretary of
 the organization or chairman of the meeting.
+
+## Article IV Members
+
+### Section 4.1 Member Classes
+
+There shall be one class of members, hereinafter referred to as full members.
+
+### Section 4.2 Full Members
+
+Reserved.
+
+### Section 4.3 Admission of Members
+
+Full members are admitted by attending a single meeting in person with a valid
+ID, preferably a Florida Identification, presented to the Secretary or meeting
+organizer. Your legal name and email address will be required for membership
+records.
+
+Anyone who resides in or around Jacksonville Florida Metropolitan Area who is
+unable to attend meetings in person may apply for membership by writing the
+Secretary, but will be require to provide valid Florida Identification to
+prove identity and confirm membership.
+
+Membership will not be automatically granted when joining the Meetup Group,
+Discord, or other online mediums. You must request to be a member and/or
+attend a meeting in person.
+
+Monetary contributions will be discounted - Jacksonville Linux Users Group
+membership cannot be bought.
+
+### Section 4.4 Continuation of Membership
+
+Membership will be maintained in perpetuity, regardless of member activity.
+
+### Section 4.5 to 4.7 Inclusive
+
+Reserved.
+
+### Section 4.8 Voluntary Withdrawal from Membership
+
+Members may withdraw from membership in the group at any time upon thirty
+(30) days' written, signed notice delivered to the Secretary or Board of Trustees,
+which notice may be by electronic mail from address on file or in person at any
+meeting.
+
+### Section 4.9 Termination from Membership
+
+Membership may be terminated by a majority vote of the Board of Trustees in the
+event that any member acts contrary to the purpose(s) of the Jacksonville Linux
+Users Group.
+
+Membership may be terminated at any time at the discretion of the Chairman of
+the Board.
+
+### Section 4.10 Effect of Withdrawal or Termination of Membership
+
+Upon any withdrawal or termination of the membership of any member, the
+membership, including all related voting rights, of such member shall be
+terminated.
