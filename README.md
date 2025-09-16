@@ -52,6 +52,8 @@
    - [Section 7.2 Members' Inspection Rights](#section-72-members-inspection-rights)
 8. [Article VIII Nonprofit Status](#article-viii-nonprofit-status)
    - [Section 8.1 Nonprofit Status](#section-81-nonprofit-status)
+9. [Article IX Corporate Seal](#article-ix-corporate-seal)
+   - [Section 9.1 Corporate Seal](#section-91-corporate-seal)
 
 ## Article I Business Offices
 
@@ -456,3 +458,9 @@ empowered to engage directly or indirectly in any activity which the foundation
 believes would be likely to invalidate its status as an organization exempt from
 federal taxation under Section 501(a) of the IRC as an organization described in
 Section 501(c) of the IRC.
+
+## Article IX Corporate Seal
+
+### Section 9.1 Corporate Seal
+
+The group shall not have a corporate seal.
