@@ -47,6 +47,9 @@
    - [Section 6.4 Removal of Officers](#section-64-removal-of-officers)
    - [Section 6.5 Vacancies](#section-65-vacancies)
    - [Section 6.6 Compensation](#section-66-compensation)
+7. [Article VII Books and Records](#article-vii-books-and-records)
+   - [Section 7.1 Books and Records](#section-71-books-and-records)
+   - [Section 7.2 Members' Inspection Rights](#section-72-members-inspection-rights)
 
 ## Article I Business Offices
 
@@ -403,3 +406,35 @@ This may be amended as necessary to ensure legal filings and other necessary
 actions are done, and for grant, internship, and other purposes as deemed
 necessary by the Chairman of the Board or Board of Trustees with Chairman
 approval.
+
+## Article VII Books and Records
+
+### Section 7.1 Books and Records
+
+The foundation shall keep correct and complete books and records of accounts
+and shall keep minutes (logs) of the proceedings of its members, Board of
+Trustees and committees of Trustees.
+
+The foundation shall keep at its registered office or principal place of
+business, or at the office of its transfer agent or registrar, or in the
+custody of the Secretary a record of the legal name and electronic mail address
+of each member, together with the date of any withdrawal or termination of such
+member's membership.
+
+Each member shall be responsible for notifying the foundation of changes to such
+member's electronic mail address.
+
+Any books, records and minutes may be in written form or in any other form
+capable of being converted into clearly legible written form within a
+reasonable time.
+
+### Section 7.2 Members' Inspection Rights
+
+Members' Inspection Rights. Any person who is a member, upon written demand
+under oath stating the purpose thereof, shall have the right to examine, in
+person or by agent or attorney, at any time during the normal weekday hours
+for business, for any proper purpose as determined under the law of the State of
+Florida, the group's membership records and its other books and records and to
+make copies or extracts therefrom.
+
+There shall be no private records, this cannot be amended or changed.
