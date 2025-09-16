@@ -56,6 +56,8 @@
    - [Section 9.1 Corporate Seal](#section-91-corporate-seal)
 10. [Article X Amendment](#article-x-amendment)
     - [Section 10.1 Amendment](#section-101-amendment)
+11. [Article XI Limits on liability of Trustees](#article-xi-limits-on-liability-of-trustees)
+    - [Section 11.1 Limits on liability of Trustees](#section-111-limits-on-liability-of-trustees)
 
 ## Article I Business Offices
 
@@ -482,3 +484,12 @@ repeal, which notice shall be to each members electronic mail address.
 
 The Chairman of the Board reserves all rights to reject any alterations,
 amendments, or repeals at their discretion.
+
+## Article XI Limits on liability of Trustees
+
+### Section 11.1. Limits on liability of Trustees
+
+To the fullest extent permitted by the law of the State of Florida, as the
+same exists or may hereafter be amended, a director of the group shall not
+be personally liable to the group or its members for monetary damages for
+breach of fiduciary duty as a director.
