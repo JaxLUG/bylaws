@@ -69,6 +69,15 @@ These Bylaws will not be official until end of JaxLUG member review.
     - [Section 10.1 Amendment](#section-101-amendment)
 11. [Article XI Limits on liability of Trustees](#article-xi-limits-on-liability-of-trustees)
     - [Section 11.1 Limits on liability of Trustees](#section-111-limits-on-liability-of-trustees)
+12. [Article XII Indemnification of officers and Trustees](#article-xii-indemnification-of-officers-and-trustees)
+    - [Section 12.1. Right to Indemnification](#section-121-right-to-indemnification)
+    - [Section 12.2 Advance Payment of Expenses](#section-122-advance-payment-of-expenses)
+    - [Section 12.3 Right of Claimant to Bring Suit](#section-123-right-of-claimant-to-bring-suit)
+    - [Section 12.4 Contract Rights](#section-124-contract-rights)
+    - [Section 12.5 Rights Non-exclusive](#section-125-rights-non-exclusive)
+    - [Section 12.6 Insurance](#section-126-insurance)
+    - [Section 12.7 Definitions](#section-127-definitions)
+    - [Section 12.8 Continued Coverage](#section-128-continued-coverage)
 
 ## Article I Business Offices
 
@@ -504,3 +513,123 @@ To the fullest extent permitted by the law of the State of Florida, as the
 same exists or may hereafter be amended, a director of the group shall not
 be personally liable to the group or its members for monetary damages for
 breach of fiduciary duty as a director.
+
+## Article XII Indemnification of officers and Trustees
+
+### Section 12.1 Right to Indemnification
+
+Each person who was or is a party or is threatened to be made a party to any
+threatened, pending or completed action, suit, or proceeding, whether civil,
+criminal, administrative, or investigative (other than an action by or in the
+right of the group), by reason of the fact that they is or was a
+director, officer or member of the group, or is or was serving at the
+request of the group as a director, officer, employee, or agent of another
+foundation, partnership, joint venture, trust, or other enterprise, shall be
+entitled to indemnification against expenses (including attorneys' fees),
+judgments, fines, and amounts paid in settlement to the fullest extent now or
+hereafter permitted by applicable law as long as such person acted in good faith
+and in a manner that such person reasonably believed to be in or not be opposed
+to the best interests of the group; provided, however, that the group
+shall indemnify any such person seeking indemnity in connection with an action,
+suit or proceeding (or part thereof) initiated by such person only if such
+action, suit or proceeding (or part thereof) was authorized by the Board of
+Trustees.
+
+### Section 12.2 Advance Payment of Expenses
+
+Expenses (including reasonable attorneys' fees) incurred by any person who is or
+was an officer, director or member of the group, or who is or was serving
+at the request of the group as an officer or director of another foundation,
+partnership, joint venture, trust or other enterprise, in defending any civil,
+criminal, administrative or investigative action, suit or proceeding, shall be
+paid by the group in advance of the final disposition of such action, suit
+or proceeding upon receipt of an undertaking by or on behalf of such person to
+repay such amount if it is ultimately determined that they is not entitled
+under applicable law to be indemnified by the group.
+
+### Section 12.3 Right of Claimant to Bring Suit
+
+If a claim under this Article is not paid in full by the group within
+ninety (90) days after a written claim has been received by the group, the
+claimant may at any time thereafter bring suit against the group to recover
+the unpaid amount of the claim and, if successful in whole or in part, the
+claimant shall be entitled to be paid also the expense of prosecuting such
+claim. It shall be a defense to any such action (other than an action brought
+to enforce a claim for expenses incurred in defending any action or proceeding
+in advance of its final disposition where the required undertaking has been
+tendered to the group unless such action is based on the claimant having
+committed an act involving moral turpitude) that the claimant has not met the
+standards of conduct which make indemnification permissible under the General
+Foundation Law of the State of Florida, but the burden of proving such
+defense shall be on the group. Neither the failure of the group
+(including its Board of Trustees, independent legal counsel, or its members) to
+have made a determination prior to the commencement of such action that
+indemnification of the claimant is proper in the circumstances because they
+has met the applicable standard of conduct set forth in the law of the State of
+Florida, nor an actual determination by the group (including its Board of
+Trustees, independent legal counsel, or its members) that the claimant has not
+met such applicable standard of conduct, shall be a defense to the action or
+create a presumption that the claimant has not met the applicable standard of
+conduct.
+
+### Section 12.4 Contract Rights
+
+The provisions of this Article shall be a contract between the group and
+each director, officer or member to which this Article applies. No repeal or
+modification of these Bylaws shall invalidate or detract from any right or
+obligation with respect to any state of facts existing prior to the time of
+such repeal or modification.
+
+### Section 12.5 Rights Non-exclusive
+
+The indemnification and advancement of expenses provided by or granted pursuant
+to this Article shall not be deemed exclusive of any other rights to which those
+seeking indemnification or advancement of expenses may be entitled under any
+Bylaw, agreement, vote of members or disinterested Trustees or otherwise, both
+as to action in his or her official capacity and as to action in another
+capacity while holding such office.
+
+### Section 12.6 Insurance
+
+The group may purchase and maintain insurance on behalf of any person who
+is or was a director, officer, member, employee or agent of the group, or
+is or was serving at the request of the group as a director, officer,
+employee or agent of another group, partnership, joint venture, trust or
+other enterprise against any liability asserted against him or her and incurred
+by him or her in any such capacity, or arising out of his or her status as such,
+whether or not the group would have the power to indemnify him or her
+against such liability under the provisions of this Article or of applicable
+law.
+
+### Section 12.7 Definitions
+
+For purposes of this Article, references to "the foundation" shall include, in
+addition to the resulting group, any constituent group (including any
+constituent of a constituent) absorbed in a consolidation or merger which, if
+its separate existence had continued, would have had power and authority to
+indemnify its Trustees, officers, and employees or agents, so that any person
+who is or was a director, officer, employee or agent of such constituent
+group, or is or was serving at the request of such constituent group
+as a director, officer, employee or agent of another foundation, partnership,
+joint venture, trust or other enterprise, shall stand in the same position
+under this Article with respect to the resulting or surviving foundation as
+they would have with respect to such constituent group if its separate existence
+had continued, and references to "other enterprises" shall include employee
+benefit plans; references to "fines" shall include any excise taxes assessed on
+a person with respect to any employee benefit plan; and references to "serving
+at the request of the foundation" shall include any service as a director,
+officer, employee or agent of the foundation which imposes duties on, or
+involves services by, such director, officer, employee, or agent with respect
+to an employee benefit plan, its participants, or beneficiaries; and a person
+who acted in good faith and in a manner they reasonably believed to be in the
+interest of the participants and beneficiaries of an employee benefit plan
+shall be deemed to have acted in a manner "not opposed to the best interests of
+the foundation" as referred to in this Article.
+
+### Section 12.8 Continued Coverage
+
+The indemnification and advancement of expenses provided by, or granted pursuant
+to this Article shall, unless otherwise provided when authorized or ratified,
+continue as to a person who has ceased to be a director, officer or member and
+shall inure to the benefit of the heirs, executors and administrators of such
+person.
