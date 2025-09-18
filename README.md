@@ -289,7 +289,7 @@ periods. Trustees shall retire annually by rotation (and may be re-elected). The
 first rotation shall be determined by the meeting of the Trustees held to adopt
 these Bylaws.
 
-Each Trustee shall hold office for the term for which he or she is elected and
+Each Trustee shall hold office for the term for which they is elected and
 until his or her successor shall have been elected and qualified or until his or
 her earlier resignation, removal or death.
 
@@ -378,7 +378,7 @@ open to all for the exchange knowledge and pursue the intentions of the group.
 
 2. Vice President. The Vice President, if one is elected, shall, in the absence
 or disability of the President, perform the duties and exercise the powers of
-the President. He or she also shall perform whatever duties and have whatever
+the President. They also shall perform whatever duties and have whatever
 powers the Board of Trustees may from time to time assign them. If more
 than one Vice President is elected, one thereof shall be designated as
 Executive Vice President and shall, in the absence or disability of the
@@ -390,7 +390,7 @@ the Board of Trustees may from time to time assign them.
 of the acts and proceedings of all meetings of the members and Trustees. The
 Secretary shall give all notices required by law and by these Bylaws. In
 addition, the Secretary shall have general charge of the corporate books and
-records and of the corporate seal, and he or she shall affix, or attest the
+records and of the corporate seal, and they shall affix, or attest the
 affixing of, the corporate seal to any lawfully executed instrument requiring
 it. The Secretary shall have general charge of the membership records of the
 group and shall keep, at the registered or principal office of the group, a
