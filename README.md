@@ -1,5 +1,12 @@
 # Jacksonville Linux Users Group Bylaws
 
+This document sets out the Bylaws governing the Jacksonville Linux Users Group.
+The Jacksonville Linux Users Group is an American not for profit entity 501(c)(7)
+incorporated in the State of Florida. The rules concerning the Corporations Not
+for Profit in Florida are defined in
+[Chapter 617](https://www.flsenate.gov/Laws/Statutes/2025/Chapter617) of Florida
+Statutes.
+
 ## DRAFT NOTICE
 
 These are draft Bylaws to be discussed by the membership of the JaxLUG.
