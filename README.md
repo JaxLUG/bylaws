@@ -78,6 +78,13 @@ These Bylaws will not be official until end of JaxLUG member review.
     - [Section 12.6 Insurance](#section-126-insurance)
     - [Section 12.7 Definitions](#section-127-definitions)
     - [Section 12.8 Continued Coverage](#section-128-continued-coverage)
+13. [Article XIII General provisions](#article-xiii-general-provisions)
+    - [Section 13.1 Checks](#section-131-checks)
+    - [Section 13.2 Fiscal Year](#section-132-fiscal-year)
+    - [Section 13.3 Loans](#section-133-loans)
+    - [Section 13.4 Deposits](#section-134-deposits)
+    - [Section 13.5 Contracts](#section-135-contracts)
+    - [Section 13.6 Counterpart Execution: Facsimile Execution](#section-136-counterpart-execution-facsimile-execution)
 
 ## Article I Business Offices
 
@@ -633,3 +640,47 @@ to this Article shall, unless otherwise provided when authorized or ratified,
 continue as to a person who has ceased to be a director, officer or member and
 shall inure to the benefit of the heirs, executors and administrators of such
 person.
+
+## Article XIII General provisions
+
+### Section 13.1 Checks
+
+All checks or demands for money and notes of the group shall be signed by
+such officer or officers or such other person or persons as the Board of
+Trustees may from time to time designate.
+
+### Section 13.2 Fiscal Year
+
+The fiscal year of the group shall be fixed by resolution of the Board of
+Trustees.
+
+### Section 13.3 Loans
+
+No loans shall be contracted on behalf of the group and no evidence of
+indebtedness shall be issued in its name unless authorized by a resolution of
+the Board of Trustees. Such authority may be general or confined to specific
+instances.
+
+### Section 13.4 Deposits
+
+All funds of the group not otherwise employed shall be deposited from time
+to time to the credit of the group in such depositories as the Board of
+Trustees shall direct.
+
+### Section 13.5 Contracts
+
+The Board of Trustees may authorize any officer or officers, agent or agents,
+to enter into any contract or execute and deliver any instrument on behalf of
+the group, and such authority may be general or confined to specific
+instances.
+
+### Section 13.6 Counterpart Execution: Facsimile Execution
+
+Any document requiring the signature of the Trustees and/or members may be
+executed in any number of counterparts with the same effect as if all of the
+required signatories had signed the same document. Such executions may be
+transmitted to the group and/or the other Trustees and/or members by
+facsimile and such facsimile execution shall have the full force and effect of
+an original signature. All fully executed counterparts, whether original
+executions or facsimile executions or a combination, shall be construed together
+and shall constitute one and the same agreement.
