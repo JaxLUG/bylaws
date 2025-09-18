@@ -1,5 +1,15 @@
 # Jacksonville Linux Users Group Bylaws
 
+## DRAFT NOTICE
+
+These are draft Bylaws to be discussed by the membership of the JaxLUG.
+If you are a member of the JaxLUG and you have issue with any sections, or
+content within, please open an issue, subject the section number, and
+in the description, you can voice your opinion on additions, changes,
+and/or removals.
+
+These Bylaws will not be official until end of JaxLUG member review.
+
 ## Table of Contents
 
 1. [Article I Business Offices](#article-i-business-offices)
