@@ -1,3 +1,5 @@
+![It's My JaxLUG Now!!!!!](itsmyjaxlugnow.png)
+
 # Jacksonville Linux Users Group Bylaws
 
 This document sets out the Bylaws governing the Jacksonville Linux Users Group.
