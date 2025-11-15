@@ -1,3 +1,18 @@
+# Jacksonville Linux Users Group Bylaws
+
+This document is a previously proposed draft from Patrick Martin in 2001
+re-posted to the now defunct archived
+[JaxLUG Mailing list Archive](https://marc.info/?l=jaxlug-list&m=131225908802048&w=2)
+by Art Wildman in 2011. Providing here for reference and legacy purposes.
+Any other copies will be added/archived the same.
+
+## DRAFT PROPOSAL NOTICE
+
+These are proposed draft Bylaws to be discussed by the membership of the JaxLUG.
+This is here for cherry picking and reference purposes.
+
+## BYLAWS 2.0
+
 BYLAWS Jacksonville Linux Users Group, Inc.
 
 ARTICLE I NAME
